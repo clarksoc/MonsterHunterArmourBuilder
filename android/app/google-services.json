@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "756008953795",
+    "project_id": "monsterhunterarmourbuilder",
+    "storage_bucket": "monsterhunterarmourbuilder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756008953795:android:ae79cf21ab26f74992bf76",
+        "android_client_info": {
+          "package_name": "com.mhab.monsterhunterarmourbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756008953795-hvmq0jegd8j50gr3s5qbueo4kutjf65f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhab.monsterhunterarmourbuilder",
+            "certificate_hash": "91395e4fbd328d72b06c759977eb164667f5db96"
+          }
+        },
+        {
+          "client_id": "756008953795-hnv5b5411p738qrhupquust51dt3vm2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ7632X0JK-Zq7LBqO6mAJruz91g2O1Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756008953795-hnv5b5411p738qrhupquust51dt3vm2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
