@@ -97,14 +97,10 @@ class _SignInScreenState extends State<SignInScreen> {
 
 
   Future<void> googleSignInHandler() async {
-    print("Did This run? V0------------------------------------------");
-
     GoogleSignInAccount? googleSignInAccount = await googleSignIn.signIn();
 
     GoogleSignInAuthentication googleSignInAuthentication =
     await googleSignInAccount!.authentication;
-
-    print("Did This run? V1------------------------------------------");
 
     AuthCredential credential = GoogleAuthProvider.credential(
       idToken: googleSignInAuthentication.idToken,
